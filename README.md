@@ -1,3 +1,14 @@
+# About Me
+
+:computer: I'm a student in the facluty of Engineering Science.
+
+:heart_eyes: I'm interested in Robotics!
+
+:robot: I'm a member of Robohan, a robotics club at Osaka University.
+
+<img src="https://blog.robohan.net/logos/robohan2.png" data-canonical-src="https://blog2.robohan.net/logos/robohan2.png" height="200"/> 
+
+
 # Github Stats
 
 <p align="left"> 
