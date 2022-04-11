@@ -18,3 +18,6 @@
 
 # My Blog (Under Construction)
 https://tatsukinishimura.github.io/angular-mypage/
+
+# Links
+mail: hbvcg00@gmail.com
