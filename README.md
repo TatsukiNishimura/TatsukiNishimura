@@ -6,15 +6,18 @@
 </p>
 
 # Technologies and Tools
-- C/C++
-- Python
-- ROS
-- Mbed
-- Angular
-- TypeScript
-- HTML
-- Git
-- Ubuntu
+<div>
+  <img src="https://img.shields.io/badge/-C-important.svg?logo=C&style=flat"/>  
+  <img src="https://img.shields.io/badge/-C++-green.svg?logo=Cplusplus&style=flat"/>
+  <img src="https://img.shields.io/badge/-Python-yellow.svg?logo=Python&style=flat"/>
+  <img src="https://img.shields.io/badge/-Angular-red.svg?logo=Angular&style=flat"/>
+  <img src="https://img.shields.io/badge/-TypeScript-white.svg?logo=TypeScript&style=flat"/>
+  <img src="https://img.shields.io/badge/-HTML-orange.svg?logo=html5&style=flat"/>
+  <img src="https://img.shields.io/badge/-Ubuntu-yellow.svg?logo=Ubuntu&style=flat"/>
+  <img src="https://img.shields.io/badge/-ROS-blue.svg?logo=ROS&style=flat"/>
+  <img src="https://img.shields.io/badge/-Mbed-0091BD.svg"/>
+
+</div>
 
 # My Blog (Under Construction)
 https://tatsukinishimura.github.io/angular-mypage/
