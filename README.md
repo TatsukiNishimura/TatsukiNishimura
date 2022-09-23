@@ -27,7 +27,7 @@
 
 </div>
 
-# My Blog (Under Construction)
+# Portfolio
 https://tatsukinishimura.github.io/angular-mypage/
 
 # Links
