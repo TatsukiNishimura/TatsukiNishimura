@@ -32,3 +32,5 @@ https://tatsukinishimura.github.io/angular-mypage/
 
 # Links
 mail: hbvcg00@gmail.com
+
+Qiita: https://qiita.com/hbvcg00
