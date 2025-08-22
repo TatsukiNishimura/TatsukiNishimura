@@ -1,6 +1,6 @@
 # About Me
 
-:computer: I'm a student in the facluty of Engineering Science.
+:computer: I'm a master student majoring in robotic manipulation and machine learning!
 
 :heart_eyes: I'm interested in Robotics!
 
