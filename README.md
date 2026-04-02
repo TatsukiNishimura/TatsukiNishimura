@@ -1,6 +1,6 @@
 # About Me
 
-:computer: I'm a master student majoring in robotic manipulation and machine learning!
+:computer: I'm a rookie autonomous driving/e2e engineer at [TIER IV](https://tier4.jp/)!
 
 :heart_eyes: I'm interested in Robotics!
 
